@@ -1,6 +1,6 @@
 # Api-Rest
 Aplicación Web(API-REST), para la gestión de tareas personales
-De cada tarea se almacena la siguinetes información:
+De cada tarea se almacena la siguiente información:
 Título
 Descripción
 Fecha de creación
