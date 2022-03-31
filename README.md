@@ -15,7 +15,7 @@ REQUISITOS FUNCIONALIDADES
 4)Marcar una tarea como cumplida
 5)Eliminar una tarea
 
-REQUSITOS NO FUNCINALES
+REQUSITOS NO FUNCIONALES
 Spring Boot
 H2
 Swagger
