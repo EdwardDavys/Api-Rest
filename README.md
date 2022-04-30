@@ -1,4 +1,4 @@
-# Api-Rest
+# Api-Rest Gestion de tareas funcionales
 Aplicación Web(API-REST), para la gestión de tareas personales
 De cada tarea se almacena la siguiente información:
 Título
